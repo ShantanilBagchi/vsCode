@@ -1,1 +1,1 @@
-# Personal Repos for creating Blog Posts
+# Personal Repo for creating Blog Posts
